@@ -1,0 +1,36 @@
+{
+  "logDirectory": "C:\\Projects\\DotNet\\start-services\\logs",
+  "pidFilePath": "C:\\Projects\\DotNet\\start-services\\.services.pids",
+  "services": [
+    {
+      "name": "Finance API",
+      "path": "C:\\Projects\\DotNet\\Finance\\src\\Finance.Api",
+      "color": "Cyan"
+    },
+    {
+      "name": "Finance Background Worker",
+      "path": "C:\\Projects\\DotNet\\Finance\\src\\Finance.BackgroundWorker",
+      "color": "Green"
+    },
+    {
+      "name": "Inventory Data API",
+      "path": "C:\\Projects\\DotNet\\Inventory-Data\\src\\Inventory.Data.Api",
+      "color": "Yellow"
+    },
+    {
+      "name": "Customer API",
+      "path": "C:\\Projects\\DotNet\\Customer\\src\\Customer.Api",
+      "color": "Magenta"
+    },
+    {
+      "name": "Customer Processor",
+      "path": "C:\\Projects\\DotNet\\Customer\\src\\Customer.Processor",
+      "color": "Blue"
+    },
+    {
+      "name": "Product API",
+      "path": "C:\\Projects\\DotNet\\Product\\src\\Product.Api",
+      "color": "DarkCyan"
+    }
+  ]
+}
